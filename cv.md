@@ -109,6 +109,7 @@ result = cars.reduce(function (r, a) {
 Object.create(null));
 
 console.log(result);
+
 ```
 
 ## Education
