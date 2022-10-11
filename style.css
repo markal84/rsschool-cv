@@ -356,7 +356,11 @@
   /* My classes 
     ========================================================================== */
 
-  
+  a:hover {
+    transition: all ease-in-out .3s;
+    color: #218ffb;
+  }
+
   header h1 {
     font-size: 2.5rem;
   }
@@ -425,7 +429,11 @@
     display: flex;
     width: 100%;
     flex-direction: row;
-    background-color: azure;
     justify-content: space-around;
     align-items: center;
+  }
+
+  footer img {
+    width: 100px;
+    height: 35px;
   }
