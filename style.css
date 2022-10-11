@@ -22,6 +22,9 @@
   
   body {
     margin: 0;
+    display:flex; 
+    justify-content:center;
+    min-height:100vh;
   }
   
   /**
@@ -347,3 +350,34 @@
   [hidden] {
     display: none;
   }
+
+  /* My classes 
+    ========================================================================== */
+
+  
+    .container {
+    display: flex;
+    flex-direction: column;
+    width: 80vw;
+    padding: 0px 20px;
+    border: 1px solid red;
+  }
+
+  .row {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    width: 100%;
+    gap: 20px;
+  }
+
+  .column {
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+  }
+
+  .width-percent-50 {
+    max-width: 50%;
+  }
+
