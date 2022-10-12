@@ -403,7 +403,7 @@
   }
 
   .gradient {
-    margin:30px auto;
+    margin:30px auto 20px auto;
     display:block;
     width:300px;
     height:2px;
