@@ -482,6 +482,10 @@
     padding-inline-start: 0px;
   }
 
+  #Experience ul {
+    list-style: circle;
+  }
+
 
   footer {
     display: flex;
