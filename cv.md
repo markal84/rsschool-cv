@@ -6,7 +6,7 @@
 
 ## Contact info
 
-- **Phone:** +48 732 188 784
+- **Phone:** +48 111 222 333
 - **E-mail:** kontakt@marcinkaleta.com
 - **Github:** https://github.com/markal84
 - **Personal website:** https://marcinkaleta.com
